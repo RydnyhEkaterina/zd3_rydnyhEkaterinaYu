@@ -1,0 +1,10 @@
+C:\Users\305-11\source\repos\zd3_Rydnyh\bin\Debug\zd3_Rydnyh.exe.config
+C:\Users\305-11\source\repos\zd3_Rydnyh\bin\Debug\zd3_Rydnyh.exe
+C:\Users\305-11\source\repos\zd3_Rydnyh\bin\Debug\zd3_Rydnyh.pdb
+C:\Users\305-11\source\repos\zd3_Rydnyh\obj\Debug\zd3_Rydnyh.csproj.AssemblyReference.cache
+C:\Users\305-11\source\repos\zd3_Rydnyh\obj\Debug\zd3_Rydnyh.Form1.resources
+C:\Users\305-11\source\repos\zd3_Rydnyh\obj\Debug\zd3_Rydnyh.Properties.Resources.resources
+C:\Users\305-11\source\repos\zd3_Rydnyh\obj\Debug\zd3_Rydnyh.csproj.GenerateResource.cache
+C:\Users\305-11\source\repos\zd3_Rydnyh\obj\Debug\zd3_Rydnyh.csproj.CoreCompileInputs.cache
+C:\Users\305-11\source\repos\zd3_Rydnyh\obj\Debug\zd3_Rydnyh.exe
+C:\Users\305-11\source\repos\zd3_Rydnyh\obj\Debug\zd3_Rydnyh.pdb
